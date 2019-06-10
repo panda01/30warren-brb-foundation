@@ -1,0 +1,5 @@
+= Brb::Foundation
+
+Injects a Buyer model and accompanying builders into a Brb-based Rails application.
+
+Also mounts the routes for both the API and Documentation.
